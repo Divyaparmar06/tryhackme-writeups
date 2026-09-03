@@ -18,7 +18,7 @@ Ran exiftool on the provided image:
 
 
 
-![exiftool output](./images/exiftool-output.png)
+![exiftool output](./images/exiftool-output.jpeg)
 
 
 
@@ -42,7 +42,7 @@ Nothing on the rendered WordPress page hinted at a password — but inspecting t
 
 
 
-![DevTools hidden credential](./images/devtools-hidden-string.png)
+![DevTools hidden credential](./images/devtools-hidden-string.jpeg)
 
 
 
